@@ -13,7 +13,7 @@
 <br />
 <br />
 
-Hi, I'm Anurag Hazra, a passionate self-taught frontEnd web developer from India.
+Hi, I'm Wilton, a passionate self-taught sysadmin/devops/sre from Brazil.
 
 - 🔭 I’m currently working on [---](https://github.com/timelessco/renderless-components)
 - 🌱 I’m currently learning JavaScript
