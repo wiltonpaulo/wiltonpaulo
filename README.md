@@ -4,17 +4,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Wilton%20Paulo-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wiltonpaulo/)](https://www.linkedin.com/in/wiltonpaulo/) 
 [![Gmail Badge](https://img.shields.io/badge/-wiltonpaulo@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wiltonpaulo@gmail.com)](mailto:wiltonpaulo@gmail.com)
 
-
-<a href="https://codesandbox.io/u/anuraghazra">
-  <img align="left" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
-</a>
-<a href="https://twitter.com/anuraghazru">
-  <img align="left" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-<a href="https://discord.gg/VK4k3Br">
-  <img align="left" alt="Anurag's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
-</a>
-
 <br />
 <br />
 
