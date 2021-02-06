@@ -1,5 +1,10 @@
 ### Hi there, I'm [Wilton!](https://wiltonpaulo.github.io) 👋
 
+[![Twitter Badge](https://img.shields.io/badge/-@wiltonpaulo-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/wiltonpaulo)](https://twitter.com/wiltonpaulo) 
+[![Linkedin Badge](https://img.shields.io/badge/-Diego%20Fernandes-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wiltonpaulo/)](https://www.linkedin.com/in/diego-schell-fernandes/) 
+[![Gmail Badge](https://img.shields.io/badge/-wiltonpaulo@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wiltonpaulo@gmail.com)](mailto:wiltonpaulo@gmail.com)
+
+
 <a href="https://codesandbox.io/u/anuraghazra">
   <img align="left" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
 </a>
