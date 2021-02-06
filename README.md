@@ -24,5 +24,5 @@ Hi, I'm Wilton, a passionate self-taught sysadmin/devops/sre from Brazil.
 
 
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wiltonpaulo&show_icons=true&include_all_commits=true&theme=material-palenight" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wiltonpaulo&layout=compact&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wiltonpaulo&show_icons=true&include_all_commits=true&theme=material-palenight" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wiltonpaulo&layout=compact&theme=material-palenight" />
 
