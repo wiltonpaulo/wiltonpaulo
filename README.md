@@ -9,6 +9,9 @@
 
 Hi, I'm Wilton, a passionate self-taught sysadmin/devops/sre from Brazil.
 
++20 years of experience with information technologies. Strong knowledge with large scale systems, kubernetes, GCP/AWS
+SRE/Devops/SysAdmin 
+
 - 🔭 I’m currently working on [---](https://github.com/timelessco/renderless-components)
 - 🌱 I’m currently learning JavaScript
 - 👯 I’m looking to collaborate on [---](https://github.com/anuraghazra/github-readme-stats)
