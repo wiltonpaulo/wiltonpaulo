@@ -1,7 +1,7 @@
 ### Hi there, I'm [Wilton!](https://wiltonpaulo.github.io) 👋
 
-[![Twitter Badge](https://img.shields.io/badge/-@wiltonpaulo-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/wiltonpaulo)](https://twitter.com/wiltonpaulo) 
 [![Linkedin Badge](https://img.shields.io/badge/-Wilton%20Paulo-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wiltonpaulo/)](https://www.linkedin.com/in/wiltonpaulo/) 
+[![Twitter Badge](https://img.shields.io/badge/-@wiltonpaulo-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/wiltonpaulo)](https://twitter.com/wiltonpaulo) 
 [![Gmail Badge](https://img.shields.io/badge/-wiltonpaulo@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wiltonpaulo@gmail.com)](mailto:wiltonpaulo@gmail.com)
 
 <br />
