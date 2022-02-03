@@ -7,7 +7,7 @@
 <br />
 <br />
 
-Hi, I'm Wilton, a passionate self-taught sysadmin/devops/sre from Brazil.
+Hi, I'm Wilton, a passionate self-taught devops/cloud engineer, sysadmin and sre from Brazil.
 
 +20 years of experience with information technologies. Strong knowledge with large scale systems, kubernetes, GCP/AWS
 SRE/Devops/SysAdmin 
