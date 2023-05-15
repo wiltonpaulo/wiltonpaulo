@@ -9,10 +9,10 @@ In addition to my technical skills, I possess excellent leadership and team mana
 💼 Overall, my experience and knowledge make me a valuable asset to any organization. I am passionate about driving innovation and finding creative solutions to complex problems.
 
 🎓 Certifications:
-✓ Certified Kubernetes Administrator - CKA
-✓ HashiCorp Terraform Associate
-✓ Google Cloud Certified Professional Cloud Architect - GCP PCA
-✓ Google Cloud Certified Associate Cloud Engineer - GCP ACE
+* Certified Kubernetes Administrator - CKA
+* HashiCorp Terraform Associate
+* Google Cloud Certified Professional Cloud Architect - GCP PCA
+* Google Cloud Certified Associate Cloud Engineer - GCP ACE
 
 👨🏻‍🎓 Currently, I'm a postgraduate student pursuing a degree in Engineering and Software Architecture at FIA - Faculdade de Administração Paulista, located in São Paulo, Brazil. My academic journey began in 2023 and is expected to conclude by the end of the first semester in 2024.
 
